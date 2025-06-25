@@ -1,4 +1,4 @@
-# Operating-systems-Concepts_processes
+# Operating-systems-Concepts: processes
 
 this project finds The Gantt chart , The Average Waiting Time and The Average Turnaround Time for each of the following scheduling Algorithms:
 
