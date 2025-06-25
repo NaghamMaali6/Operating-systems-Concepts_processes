@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="main.c" open="1" top="0" tabpos="2">
+		<Cursor position="57" topLine="33" />
+		<BrowseMarks positions="314,463,2050,2242,2433,2513,2893,3003,5343,6321,6927,7256,8953,9972,10073,10539,11576" />
+	</File>
+</BrowseTracker_layout_file>

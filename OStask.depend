@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1704553777 source:c:\users\user\desktop\os\task2\ostask\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<stdbool.h>
+
